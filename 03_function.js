@@ -5,3 +5,5 @@ console.log("Buy some vegetable");
 }
 
 sachin();
+var veg = sachin(500);
+console.log(veg);
