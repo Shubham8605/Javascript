@@ -49,5 +49,15 @@ for (let index = 0; index < 1000; index= index+2) { // 1 2
          break;
       }
    }
+
+
+
+
+   for (let index = 0; index < array.length; index++) {
+      if(index==5){
+
+      }
+      console.log(index);
+   }
    
 }
