@@ -15,5 +15,5 @@ var addition = 1;
 for (let index = 1; index <=5; index++) {
     square = index*index;
     addition = addition + square;
-    
+    console.log(index );
 }
