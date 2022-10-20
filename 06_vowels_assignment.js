@@ -13,3 +13,4 @@ for (let index = 0; index < string.length; index++) {
 
 console.log("sum of cube number from 1 to 5");
 console.log(225);
+ 
