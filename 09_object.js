@@ -5,9 +5,9 @@ let mohitPerson = {
     age: 42,
     isMarried: true
 }
-console.log(object.entries(mohitPerson));
-console.log(object.keys(mohitPerson));
-console.log(object.value(mohitPerson));
+console.log("=======in operator======");
+let isAvailable = "fullName" in mohitPerson;
+console.log(isAvailable);
 
 let person = {
     fullName: "Schin Tendulkar",
