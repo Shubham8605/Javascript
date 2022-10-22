@@ -7,9 +7,7 @@ class Person {
            this.gender = gender;
     }
 }
-details(){
-    console.log(`Person Details: ${this.fullName}  ${this.city}  ${this.age}  ${this.gender}`);
-}
+
 let sachin = new Person("Sacin kale","pune","45","male");
 let Rohit = new Person("Rohit sharma","mumbai","32","male");
 
