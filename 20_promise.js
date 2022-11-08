@@ -11,6 +11,6 @@ promise.then(function(success){
     console.log(success);
 }).catch(function(failure){
     console.log(failure);
-}).finally(function(){
+}).finally(function(){ 
     console.log("Done....");
 });
